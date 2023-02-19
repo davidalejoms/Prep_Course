@@ -1,2 +1,1 @@
-# Prep_Course
-mi repositorio de estudios para el prep de soyhenry
+ Estoy modificando el archivo ritmo que se descargó desde aquí para ponerla en mi escritorio local clonando en mi computador
